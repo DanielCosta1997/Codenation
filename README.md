@@ -1,5 +1,5 @@
 # Codenation - AcelaraDev DataScience
-Repositório dedicado as atividades do AceleraDev DataScience
+Repositório dedicado as atividades do Aceleradev DataScience
 
 Semana 1: Introdução a Ciência de Dados: Semana teórica
 
