@@ -9,3 +9,6 @@ Semana 3: Análise Exploratória: Análise de dados aplicando conceitos de estat
 
 Semana 4: Continuação da Análise Exploratória: Análise de dados com funções de probabilidade.
 
+
+
+![Logo](https://github.com/DanielCosta1997/Codenation/blob/master/logo.png)
